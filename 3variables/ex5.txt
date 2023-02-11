@@ -1,0 +1,4 @@
+In the first, x will print 3 
+In the second, x will print an error because x has not been initialized outside the block. 
+
+both correct, good job!

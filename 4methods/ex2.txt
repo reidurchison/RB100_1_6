@@ -1,0 +1,9 @@
+1. 2  CORRECT
+
+2. nil  CORRECT
+
+3. nil  WRONG it is "Joe"
+
+4. "four"  CORRECT
+
+5. nil  CORRECT

@@ -1,0 +1,4 @@
+exercise 6
+
+that error is saying you have a method that needs 2 arguments, but you've only provided 1 argument.
+CORRECT

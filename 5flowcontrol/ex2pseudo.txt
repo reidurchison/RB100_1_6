@@ -1,0 +1,14 @@
+Write a method that takes a string as an argument. 
+The method should return a new, all-caps version of the string, 
+only if the string is longer than 10 characters. Example: change 
+"hello world" to "HELLO WORLD". (Hint: Ruby's String class has a 
+few methods that would be helpful. Check the Ruby Docs!)
+
+1. define method
+2. check if the string is at least 10 characters
+3. if it is, change it to uppercase
+4. if not, print a message saying it isn't all caps
+5. end method
+
+6. get string from user
+7. use that string as an argument

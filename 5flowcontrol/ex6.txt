@@ -1,0 +1,19 @@
+exercise 6
+
+1. error (can't compare an integer and a string)
+CORRECT
+
+2. error (can't compare an integer and a string)
+FALSE (not doing a comparison!!)
+
+3. false
+CORRECT
+
+4. true
+CORRECT
+
+5. true
+INCORRECT
+
+6. false
+INCORRECT

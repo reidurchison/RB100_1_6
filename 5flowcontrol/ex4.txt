@@ -1,0 +1,11 @@
+#exercise 4
+
+snippet 1: FALSE
+CORRECT
+
+snippet 2: Did you get it right?
+CORRECT
+
+snippet 3: Alright now!
+CORRECT
+

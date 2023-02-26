@@ -1,0 +1,13 @@
+Exercise 7
+
+It's not A, because array variables don't have keys
+
+I think B seems like the clear answer
+
+It's not C, because I don't think C makes sense... 
+    - I don't think arrays get "defined", and even if they do that would mean that keys isn't already an array object
+    - we're talking about the METHOD being undefined, not the array
+    
+It's not D, because the error is about a method, not a string 
+
+Correct! :)

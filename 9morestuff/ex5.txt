@@ -1,0 +1,6 @@
+exercise 5
+
+We get that error because we've used a block as the argument, however
+the parameter (block, i.e. not &block as it should be) is not a block
+
+so Ruby is not expecting a block

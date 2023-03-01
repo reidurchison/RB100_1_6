@@ -9,7 +9,7 @@ Summary of this section
     
 3. Variables as pointers
     variables don't contain the value => they point to where the value is located in memory (an address space)
-      i.e. variables are pointers to a physical space in memory; they are labels we create to reger to some physical memory address in your computer
+      i.e. variables are pointers to a physical space in memory; they are labels we create to refer to some physical memory address in your computer
     Some operations mutate the address space (e.g. <<) while others simply make the variable point to a different address space (e.g. =)
     
 4. Blocks and Procs
@@ -20,3 +20,15 @@ Summary of this section
     PROCS
       procs are blocks that are wrapped in a proc object and stored in a variable to be passed around
       
+5. Exception Handling
+    rescue
+    Exception is a class that handles (certain types of?) errors
+      uses reserved words: begin, rescue, end (in that order)
+    rescue can provide a fallback in case of an error, so that the program can continue to run and not just stop at the point of the error
+
+6. Exceptions & Stack Traces
+    an "exception" is like an error (can consider them synonymous for now)
+    
+7. Method Definition Order
+    Rule of thumb: define all methods before invoking any of them - define all methods, then put the main program code at the bottom of the program.
+    

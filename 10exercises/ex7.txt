@@ -1,0 +1,4 @@
+Major difference between an array and a hash: 
+
+an array is a list in order by index value (0-n)
+whereas a hash is a list of key-value pairs (only ordered in newer ruby versions)

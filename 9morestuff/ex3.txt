@@ -1,0 +1,4 @@
+exercise 3
+
+Exception handling is a way to deal with errors so that the program an contunie
+to run instead of being stopped in its tracks when it runs into the error.
